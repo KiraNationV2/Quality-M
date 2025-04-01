@@ -1,0 +1,6 @@
+requests
+pyfiglet
+halo
+simple-chalk
+tabulate
+tqdm
